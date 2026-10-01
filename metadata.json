@@ -1,0 +1,10 @@
+{
+  "name": "Smart Waste Segregation",
+  "description": "AI-powered waste intelligence platform built by Team ASTELLA to classify waste into 10 streams, inspect contamination, and recommend smart disposal.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

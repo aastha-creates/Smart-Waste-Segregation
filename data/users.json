@@ -1,0 +1,29 @@
+[
+  {
+    "id": "user-demo-1",
+    "name": "Alex Green",
+    "email": "user@smartwaste.eco",
+    "salt": "610b701e2b37868889bf5971f1fca0af",
+    "passwordHash": "e2c7625ef8c42c5ced4700a3e7825060d836d0c7ddc9d7131c633b553f3d05005406841678a4763836b03ef475ee0198722b21b0f0bbd9b2c431ea58d7147a98",
+    "role": "user",
+    "created_at": "2026-08-01T10:00:00.000Z"
+  },
+  {
+    "id": "admin-1",
+    "name": "Sustainability Officer",
+    "email": "admin@smartwaste.eco",
+    "salt": "be9213b65a70870ef95f647f79bbf2a8",
+    "passwordHash": "827b4c93db865a5d56bce457c2e67a7eb82f2a4cbe65044a7c9331f02c4c521c422d58a78dbe85cebec1c35dbc8425518ed0a57af07aa741589691b0e6cd01a4",
+    "role": "admin",
+    "created_at": "2026-07-15T08:30:00.000Z"
+  },
+  {
+    "id": "user-1790836459589-cf2pm",
+    "name": "Jane Doe",
+    "email": "jane@example.com",
+    "salt": "87c1499233befd89bf952b7a788c60c8",
+    "passwordHash": "cbbbad6c5013b23ed00e9b8e5cb8c626040a79b68f46a344c5b915da172e403078509ff6defc653637d3d1c6eda32c9eaaa8f40139decf392af02f510593f475",
+    "role": "user",
+    "created_at": "2026-10-01T06:34:19.589Z"
+  }
+]
